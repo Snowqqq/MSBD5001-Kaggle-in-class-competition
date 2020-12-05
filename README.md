@@ -2,7 +2,7 @@
 Programming language: 
 Python
 
-Eequired packages: 
+Required packages: 
 re, numpy, pandas, xgboost, sklearn
 
 How to run: 
